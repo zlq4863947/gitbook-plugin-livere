@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "gitbook-plugin": "^4.0.0-alpha.0",
-    "eslint": "3.7.1",
+    "eslint": "6.6.0",
     "eslint-config-gitbook": "1.4.0"
   },
   "homepage": "https://github.com/zlq4863947/gitbook-plugin-livere",
